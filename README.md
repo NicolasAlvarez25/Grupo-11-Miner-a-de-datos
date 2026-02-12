@@ -1,8 +1,7 @@
 # Grupo-11-Miner-a-de-datos
 
 📌 Nombre del Proyecto
-📖 Descripción del Proyecto
-
+## 📖 Descripción del Proyecto
 Este proyecto tiene como finalidad desarrollar una solución basada en Python para el análisis, procesamiento y/o automatización de tareas específicas, utilizando herramientas modernas de desarrollo y entornos reproducibles mediante contenedores.
 
 El repositorio contiene el código fuente, notebooks de análisis, configuración de entorno y documentación necesaria para ejecutar el proyecto de manera local o en contenedores Docker.
