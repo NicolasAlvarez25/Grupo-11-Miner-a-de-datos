@@ -1,4 +1,4 @@
-+# Grupo-11-Miner-a-de-datos
+# Grupo-11-Miner-a-de-datos
 
 📌 Nombre del Proyecto
 ## 📖 Descripción del Proyecto
