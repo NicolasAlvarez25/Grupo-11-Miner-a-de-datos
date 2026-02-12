@@ -1,4 +1,4 @@
-# Grupo-11-Miner-a-de-datos
++# Grupo-11-Miner-a-de-datos
 
 📌 Nombre del Proyecto
 ## 📖 Descripción del Proyecto
@@ -8,15 +8,7 @@ El repositorio contiene el código fuente, notebooks de análisis, configuració
 
 ## 🎯 Objetivos del Proyecto
 
-✅ Desarrollar una solución funcional utilizando Python.
 
-✅ Aplicar buenas prácticas de desarrollo y organización de código.
-
-✅ Implementar un entorno reproducible utilizando Docker.
-
-✅ Facilitar el análisis y experimentación mediante Jupyter Notebook.
-
-✅ Mantener una estructura clara y escalable del proyecto.
 
 ## 🛠 Herramientas
 
@@ -30,6 +22,9 @@ Docker → Contenerización del entorno para asegurar portabilidad y consistenci
 
 Jupyter Notebook → Exploración de datos, pruebas y documentación interactiva.
 
+PostgreSQL → Sistema de gestión de base de datos relacional.
+
+WSL (Windows Subsystem for Linux) → Entorno Linux dentro de Windows para desarrollo y ejecución de herramientas.
 ## 📂 Estructura del Proyecto
 📦 nombre-del-proyecto
  ┣ 📂 src/                # Código fuente principal
