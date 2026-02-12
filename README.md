@@ -46,4 +46,4 @@ La estructura está diseñada para mantener el proyecto organizado, modular y f�
 
 ## 👥 Autores
 
-Tu Nombre Aquí – Desarrollo y documentación
+Nicolas Gabriel Álvarez Aguirre y Yeison Andres Scarpeta Diaz.
