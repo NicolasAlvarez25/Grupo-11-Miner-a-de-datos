@@ -6,7 +6,7 @@ Este proyecto tiene como finalidad desarrollar una solución basada en Python pa
 
 El repositorio contiene el código fuente, notebooks de análisis, configuración de entorno y documentación necesaria para ejecutar el proyecto de manera local o en contenedores Docker.
 
-🎯 Objetivos del Proyecto
+## 🎯 Objetivos del Proyecto
 
 ✅ Desarrollar una solución funcional utilizando Python.
 
@@ -18,7 +18,7 @@ El repositorio contiene el código fuente, notebooks de análisis, configuració
 
 ✅ Mantener una estructura clara y escalable del proyecto.
 
-🛠 Herramientas
+## 🛠 Herramientas
 
 Las principales herramientas utilizadas en este proyecto son:
 
@@ -30,7 +30,7 @@ Docker → Contenerización del entorno para asegurar portabilidad y consistenci
 
 Jupyter Notebook → Exploración de datos, pruebas y documentación interactiva.
 
-📂 Estructura del Proyecto
+## 📂 Estructura del Proyecto
 📦 nombre-del-proyecto
  ┣ 📂 src/                # Código fuente principal
  ┣ 📂 notebooks/          # Jupyter Notebooks
@@ -44,6 +44,6 @@ Jupyter Notebook → Exploración de datos, pruebas y documentación interactiva
 
 La estructura está diseñada para mantener el proyecto organizado, modular y fácil de mantener.
 
-👥 Autores
+## 👥 Autores
 
 Tu Nombre Aquí – Desarrollo y documentación
