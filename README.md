@@ -233,10 +233,10 @@ Por cada Pokémon se extraen los siguientes campos:
 
 ## 👥 Autores
 
-| Nombre | GitHub |
-|---|---|
-| Nicolas Gabriel Álvarez Aguirre | [@NicolasAlvarez25](https://github.com/NicolasAlvarez25) |
-| Yeison Andres Scarpeta Diaz | — |
+| Nombre |
+|---|
+| Nicolas Gabriel Álvarez Aguirre |
+| Yeison Andres Scarpeta Diaz |
 
 **Institución:** CORHUILA - Ingeniería de Sistemas  
 **Materia:** Minería de Datos  
