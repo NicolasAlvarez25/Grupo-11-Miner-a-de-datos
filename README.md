@@ -147,12 +147,12 @@ El sistema está desplegado completamente en la nube:
 
 | Recurso | URL |
 |---------|-----|
-| Repositorio GitHub | *(pegar link)* |
-| Dashboard Streamlit | *(pegar URL)* |
+| Dashboard Streamlit | *(https://grupo-11-miner-a-de-datos-78gbzm6mf4szalkxonjqy8.streamlit.app/* |
 
 ---
 
 ## 👨‍💻 Autor
 
-**Yeison Scarpeta**  
+**Yeison Scarpeta**
+**Nicolas Alvarez** 
 Grupo 11 — Minería de Datos · 2026
